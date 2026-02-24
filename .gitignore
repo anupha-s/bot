@@ -1,0 +1,11 @@
+# OpenClaw config with sensitive tokens
+openclaw.json
+
+# Executable files
+*.exe
+
+# Node modules
+node_modules/
+
+# Logs
+*.log

@@ -1,0 +1,16 @@
+{
+  "name": "openclaw-line-agent",
+  "version": "1.0.0",
+  "description": "OpenClaw LINE Chatbot Agent - ส่งราคาและข่าวคริปโตอัตโนมัติ",
+  "main": "scheduler.js",
+  "scripts": {
+    "start": "node scheduler.js",
+    "test": "node crypto_news.js"
+  },
+  "keywords": ["openclaw", "line", "crypto", "chatbot"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
